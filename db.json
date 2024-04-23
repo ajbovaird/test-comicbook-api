@@ -1,0 +1,28 @@
+{
+    "titles": [
+        {
+            "id": 1,
+            "title": "Amazing Spider-Man",
+            "volume": "1",
+            "publication_start_year": "1963",
+            "publication_end_year": "present",
+            "publisher": "Marvel Comics"
+        },
+        {
+            "id": 2,
+            "title": "Uncanny X-Men",
+            "volume": "1",
+            "publication_start_year": "1967",
+            "publication_end_year": "2018",
+            "publisher": "Marvel Comics"
+        },
+        {
+            "id": 3,
+            "title": "Action Comics",
+            "volume": "1",
+            "publication_start_year": "132",
+            "publication_end_year": "present",
+            "publisher": "DC Comics"
+        }
+    ]
+}
